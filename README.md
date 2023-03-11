@@ -1,5 +1,9 @@
 # Process-scheduler-in-GO
 
+The main.go file is in the Project1 dirctory
+
+---------------------------------------------------------------------
+
 This Process Scheduler helps with implementation of SJF, RR, FCFS and SJF Priority. 
 
 ---------------------------------------------------------------------
